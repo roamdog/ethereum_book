@@ -451,8 +451,10 @@ MyEtherWallet对于测试和作为硬件钱包界面非常有用。它不应该�
 
 与MyEtherWallet一样，在浏览器中访问MyCrypto时必须非常小心。始终使用书签，或者非常小心地输入URL（然后将其书签以备将来使用）。
 
-MyCrypto可以在以下网址找到：
+MyCrypto可以在以下网址找到：\
+[https://MyCrypto.com](https://mycrypto.com)
 
 **Mist**
 
-Mist是以太坊基金会创建的第一个启用以太坊的浏览器。它还包含一个基于浏览器的钱包，这是有史以来第一个实现ERC20代币标准的（Fabian Vogelsteller，ERC20的作者也是Mist的主要开发人员）。Mist也是第一个引入camelCase校验和的软件包（EIP-155，参见 [\[eip-155\]](broken-reference) ）。Mist运行一个完整的节点，并提供完整的DApp浏览器，支持基于Swarm的存储和ENS地址。可以在以下网址找到：
+Mist是以太坊基金会创建的第一个启用以太坊的浏览器。它还包含一个基于浏览器的钱包，这是有史以来第一个实现ERC20代币标准的（Fabian Vogelsteller，ERC20的作者也是Mist的主要开发人员）。Mist也是第一个引入camelCase校验和的软件包（EIP-155，参见 [\[eip-155\]](broken-reference) ）。Mist运行一个完整的节点，并提供完整的DApp浏览器，支持基于Swarm的存储和ENS地址。可以在以下网址找到：\
+[https://github.com/ethereum/mist](https://github.com/ethereum/mist)
